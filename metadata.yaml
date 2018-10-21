@@ -1,5 +1,5 @@
 _repo: The-Age-of-Chivalry_4926
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ subjects:
 - !lcsh 'Celts -- Folklore'
 - !lcsh 'Arthur, King -- Legends'
 - !lcc 'PN'
+- GITenberg
 title: The Age of Chivalry
 url: http://www.gutenberg.org/ebooks/4926
